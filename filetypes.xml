@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="info" type="PHP" />
+      <mapping ext="install" type="PHP" />
+      <mapping pattern="ScheduleMetaRows.js" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

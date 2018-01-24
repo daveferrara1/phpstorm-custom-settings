@@ -1,0 +1,13 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="1.6.0.4" />
+    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="highlightColor" value="35cbba" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="highlightThickness" value="4" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="accentColor" value="bc6cc0" />
+    <option name="compactSidebar" value="true" />
+    <option name="customSidebarHeight" value="20" />
+  </component>
+</application>
