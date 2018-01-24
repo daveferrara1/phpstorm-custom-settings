@@ -9,5 +9,6 @@
     <option name="accentColor" value="bc6cc0" />
     <option name="compactSidebar" value="true" />
     <option name="customSidebarHeight" value="20" />
+    <option name="darkTitleBar" value="true" />
   </component>
 </application>
