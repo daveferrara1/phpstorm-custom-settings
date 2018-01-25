@@ -9,13 +9,6 @@
       <PhpCSConfiguration />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="vagrant:///Users/dferrara/Sites/local.pac-12.com/usr/bin/php" id="a3694dbf-e911-4d7d-9e81-bb4941e8535c" name="Remote PHP 5.6" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="$USER_HOME$/Sites/local.pac-12.com" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 5.6">
