@@ -7,5 +7,6 @@
     <entry key="terminal.buffer.max.lines.count" value="2500" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="bigger.font.in.project.view" value="true" />
+    <entry key="debugger.watches.in.variables" value="false" />
   </component>
 </application>
