@@ -6,5 +6,7 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="terminal.buffer.max.lines.count" value="2500" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
+    <entry key="bigger.font.in.project.view" value="true" />
   </component>
 </application>
