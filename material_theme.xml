@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.1.5.3" />
+    <option name="version" value="2.1.6" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="highlightColor" value="35cbba" />
     <option name="highlightColorEnabled" value="true" />
