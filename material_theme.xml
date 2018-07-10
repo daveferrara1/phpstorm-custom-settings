@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.2.1" />
+    <option name="version" value="2.4.2-2018.1" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="highlightColor" value="35cbba" />
     <option name="highlightColorEnabled" value="true" />
@@ -10,5 +10,6 @@
     <option name="compactSidebar" value="true" />
     <option name="customSidebarHeight" value="20" />
     <option name="darkTitleBar" value="true" />
+    <option name="userId" value="bdbddbe:164861f2ebd:-7fff" />
   </component>
 </application>
