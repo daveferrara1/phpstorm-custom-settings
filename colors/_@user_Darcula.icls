@@ -3,7 +3,7 @@
     <property name="created">2018-01-04T09:31:34</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-06-07T16:25:19</property>
+    <property name="modified">2018-07-31T13:48:54</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -20,6 +20,7 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SUPPRESSED" value="979fad" />
     <option name="FILESTATUS_SWITCHED" value="f77669" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />

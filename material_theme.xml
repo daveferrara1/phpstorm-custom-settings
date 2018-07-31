@@ -1,10 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.4.2-2018.1" />
+    <option name="version" value="2.7.0" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="highlightColor" value="35cbba" />
     <option name="highlightColorEnabled" value="true" />
     <option name="highlightThickness" value="4" />
+    <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="accentColor" value="bc6cc0" />
     <option name="compactSidebar" value="true" />
