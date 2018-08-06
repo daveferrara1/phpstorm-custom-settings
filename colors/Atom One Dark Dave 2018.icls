@@ -4,7 +4,7 @@
     <property name="created">2018-08-01T16:54:22</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.0.0</property>
-    <property name="modified">2018-08-01T16:54:37</property>
+    <property name="modified">2018-08-06T16:09:23</property>
     <property name="originalScheme">_@user_Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -71909,7 +71909,8 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="314365" />
+        <option name="FOREGROUND" value="2f333d" />
+        <option name="BACKGROUND" value="ecf579" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
@@ -72246,7 +72247,8 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="314365" />
+        <option name="FOREGROUND" value="2f333d" />
+        <option name="BACKGROUND" value="ecf579" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -72322,7 +72324,8 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="314365" />
+        <option name="FOREGROUND" value="2f333d" />
+        <option name="BACKGROUND" value="ecf579" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
