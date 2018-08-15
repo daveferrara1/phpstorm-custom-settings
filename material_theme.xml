@@ -7,11 +7,12 @@
     <option name="highlightThickness" value="4" />
     <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="accentColor" value="bc6cc0" />
+    <option name="accentColor" value="2979ff" />
     <option name="compactSidebar" value="true" />
     <option name="customSidebarHeight" value="20" />
     <option name="darkTitleBar" value="true" />
     <option name="userId" value="bdbddbe:164861f2ebd:-7fff" />
     <option name="allowDataCollection" value="true" />
+    <option name="overrideAccentColor" value="true" />
   </component>
 </application>
