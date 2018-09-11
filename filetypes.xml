@@ -6,6 +6,7 @@
       <mapping pattern="ScheduleMetaRows.js" type="PLAIN_TEXT" />
       <mapping pattern="SchedulePageNavigationSelectContainer.js" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="YAML" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
