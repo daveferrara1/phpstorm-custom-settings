@@ -5,6 +5,7 @@
       <mapping ext="install" type="PHP" />
       <mapping pattern="ScheduleMetaRows.js" type="PLAIN_TEXT" />
       <mapping pattern="SchedulePageNavigationSelectContainer.js" type="PLAIN_TEXT" />
+      <mapping pattern="11-delete-subscriptions-queues.sh" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="YAML" />
       <mapping pattern=".gitignore_global" type="Git file" />
