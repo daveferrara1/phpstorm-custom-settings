@@ -5,6 +5,7 @@
       <option name="TAB_SIZE" value="2" />
     </value>
   </option>
+  <option name="RIGHT_MARGIN" value="250" />
   <JSCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
