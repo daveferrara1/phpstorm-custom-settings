@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="install" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+    </extensionMap>
+  </component>
+</application>
