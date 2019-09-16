@@ -1,0 +1,7 @@
+<templateSet group="Twig">
+  <template name="debug" value="{{ breakpoint() }}" description="Debug breakpoint" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+</templateSet>
