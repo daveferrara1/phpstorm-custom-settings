@@ -4,6 +4,7 @@
       <entry key="Default">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
+          <option name="HIGHLIGHT_POLICY" value="DO_NOT_HIGHLIGHT" />
         </PlaceSettings>
       </entry>
     </option>
