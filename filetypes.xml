@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="install" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping pattern="Vagrantfile" type="YAML" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".gitkeep" type="Git file" />
-      <mapping ext="theme" type="PHP" />
-      <mapping ext="install" type="PHP" />
-      <mapping pattern="Vagrantfile" type="YAML" />
     </extensionMap>
   </component>
 </application>
