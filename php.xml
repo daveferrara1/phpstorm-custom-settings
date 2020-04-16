@@ -1,8 +1,3 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
-  </component>
+  <component name="PhpDebugGeneral" xdebug_notify_resolved_breakpoints="false" />
 </application>
