@@ -4,6 +4,7 @@
       <mapping ext="theme" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping pattern="product" type="SCSS" />
+      <mapping pattern="_facets" type="Sass" />
       <mapping pattern="Vagrantfile" type="YAML" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".gitkeep" type="Git file" />
