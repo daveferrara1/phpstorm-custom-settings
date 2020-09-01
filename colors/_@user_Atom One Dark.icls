@@ -4,7 +4,7 @@
     <property name="created">2018-01-16T20:41:02</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2020-05-14T06:34:01</property>
+    <property name="modified">2020-09-01T16:07:16</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -70856,7 +70856,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="729c98" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -72310,6 +72310,9 @@
       <value>
         <option name="FOREGROUND" value="98c379" />
       </value>
+    </option>
+    <option name="TAB_SELECTED">
+      <value />
     </option>
     <option name="TAPESTRY_COMPONENT_TAG">
       <value>

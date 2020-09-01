@@ -4,13 +4,16 @@
     <option name="highContrast" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="compactSidebar" value="true" />
+    <option name="darkTitleBar" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="upperCaseTabs" value="true" />
     <option name="customSidebarHeight" value="20" />
-    <option name="settingsSelectedTab" value="4" />
+    <option name="highlightThickness" value="3" />
+    <option name="settingsSelectedTab" value="5" />
     <option name="tabsHeight" value="24" />
     <option name="accentColor" value="2979ff" />
     <option name="highlightColor" value="ff81e1" />
