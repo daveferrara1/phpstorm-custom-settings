@@ -1,5 +1,5 @@
 <templateSet group="Vue">
-  <template name="med" value="@media #{$medium} {&#10;    $MODULE_REF$&#10;}" description="Medium Media Query" toReformat="false" toShortenFQNames="true">
+  <template name="med" value="@media #{$medium} {&#10;    $MODULE_REF$&#10;}" shortcut="TAB" description="Medium Media Query" toReformat="true" toShortenFQNames="true">
     <variable name="MODULE_REF" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Vue" value="true" />
