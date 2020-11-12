@@ -4,18 +4,13 @@
     <property name="created">2017-03-08T21:57:49</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.2.1.0.0</property>
-    <property name="modified">2017-12-01T15:25:47</property>
+    <property name="modified">2020-11-11T23:10:15</property>
     <property name="originalScheme">Monokai Sublime Text 3</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Andale Mono" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
-  </font>
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="11" />
@@ -496,6 +491,31 @@
       <value>
         <option name="FOREGROUND" value="66d9ef" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="2e332f" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="253334" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="2e2a3d" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="21323b" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="3c232a" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -18806,13 +18826,13 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
+    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="" />
     <option name="PHP_PARAMETER">
       <value>
         <option name="FOREGROUND" value="d1d4" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="PHP_VAR" baseAttributes="" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="cd7654" />
