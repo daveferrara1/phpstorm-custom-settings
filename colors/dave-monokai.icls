@@ -4,7 +4,7 @@
     <property name="created">2017-03-08T21:57:49</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.2.1.0.0</property>
-    <property name="modified">2020-11-13T22:09:40</property>
+    <property name="modified">2020-11-15T17:23:19</property>
     <property name="originalScheme">Monokai Sublime Text 3</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -18826,13 +18826,13 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
+    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="" />
     <option name="PHP_PARAMETER">
       <value>
         <option name="FOREGROUND" value="d1d4" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="PHP_VAR" baseAttributes="" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="cd7654" />
