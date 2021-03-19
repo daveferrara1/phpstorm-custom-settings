@@ -199,9 +199,8 @@
         <entry key="*.csv">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij.database" />
-              <option name="myPluginName" value="Database Tools and SQL" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
+              <option name="myPluginName" value="CSV Plugin" />
             </plugin>
           </value>
         </entry>
@@ -1199,6 +1198,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.psv">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
+              <option name="myPluginName" value="CSV Plugin" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.regexp">
           <value>
             <plugin>
@@ -1367,6 +1374,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.tab">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
+              <option name="myPluginName" value="CSV Plugin" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.tfignore">
           <value>
             <plugin>
@@ -1432,9 +1447,8 @@
         <entry key="*.tsv">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij.database" />
-              <option name="myPluginName" value="Database Tools and SQL" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
+              <option name="myPluginName" value="CSV Plugin" />
             </plugin>
           </value>
         </entry>
