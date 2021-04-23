@@ -1,7 +1,9 @@
 <application>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="15" />
-    <option name="FONT_FAMILY" value="Fira Code Medium" />
+    <option name="FONT_FAMILY" value="Fira Code" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Medium" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Medium" />
     <option name="LINE_SPACING" value="1.4" />
     <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Source Code Pro" />
@@ -20,5 +22,9 @@
         <option value="JavaScript.js.type.hints" />
       </set>
     </option>
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
