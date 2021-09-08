@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern="product" type="SCSS" />
       <mapping pattern="_facets" type="Sass" />
       <mapping pattern="Vagrantfile" type="YAML" />
