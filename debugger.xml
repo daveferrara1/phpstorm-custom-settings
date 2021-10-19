@@ -1,7 +1,7 @@
 <application>
   <component name="XDebuggerSettings">
     <data-views>
-      <sort-values>true</sort-values>
+      <option name="valueLookupDelay" value="400" />
       <show-values-inline>false</show-values-inline>
     </data-views>
     <general>
