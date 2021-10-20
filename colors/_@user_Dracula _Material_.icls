@@ -4,7 +4,7 @@
     <property name="created">2021-04-23T05:49:14</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.1.0.0</property>
-    <property name="modified">2021-09-22T15:44:30</property>
+    <property name="modified">2021-10-19T17:10:32</property>
     <property name="originalScheme">Dracula (Material)</property>
   </metaInfo>
   <console-font>
@@ -20,8 +20,8 @@
     <option name="ADDED_LINES_COLOR" value="8aff80" />
     <option name="ANNOTATIONS_COLOR" value="282a36" />
     <option name="BookmarkIcon.background" value="ff79c5" />
-    <option name="CARET_COLOR" value="cccccc" />
-    <option name="CARET_ROW_COLOR" value="333740" />
+    <option name="CARET_COLOR" value="1dfdea" />
+    <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="282a36" />
     <option name="DELETED_LINES_COLOR" value="f780bf" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="f780bf" />
@@ -54,10 +54,10 @@
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_modifiedOutside" value="57b6c2" />
     <option name="GUTTER_BACKGROUND" value="282a36" />
-    <option name="INDENT_GUIDE" value="424450" />
+    <option name="INDENT_GUIDE" value="ccffa6" />
     <option name="INFORMATION_HINT" value="282a36" />
-    <option name="LINE_NUMBERS_COLOR" value="666879" />
-    <option name="METHOD_SEPARATORS_COLOR" value="424450" />
+    <option name="LINE_NUMBERS_COLOR" value="2d3038" />
+    <option name="METHOD_SEPARATORS_COLOR" value="2d3038" />
     <option name="MODIFIED_LINES_COLOR" value="80ffea" />
     <option name="MnemonicIcon.background" value="666b87" />
     <option name="MnemonicIcon.borderColor" value="666b87" />
@@ -66,7 +66,7 @@
     <option name="PROMOTION_PANE" value="191a21" />
     <option name="QUESTION_HINT" value="282a36" />
     <option name="RECENT_LOCATIONS_SELECTION" value="191a21" />
-    <option name="RIGHT_MARGIN_COLOR" value="424450" />
+    <option name="RIGHT_MARGIN_COLOR" value="" />
     <option name="SELECTED_INDENT_GUIDE" value="f780bf" />
     <option name="SELECTED_TEARLINE_COLOR" value="f780bf" />
     <option name="SELECTION_BACKGROUND" value="666b87" />
@@ -91,14 +91,14 @@
     <option name="ScrollBar.trackColor" value="282a36" />
     <option name="TAB_UNDERLINE" value="ff79c5" />
     <option name="TAB_UNDERLINE_INACTIVE" value="ff79c580" />
-    <option name="TEARLINE_COLOR" value="424450" />
+    <option name="TEARLINE_COLOR" value="2d3038" />
     <option name="TOOLTIP" value="282a36" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="feff80" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="f780bf" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="80ffea" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="9580ff" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="f89580" />
-    <option name="VISUAL_INDENT_GUIDE" value="424450" />
+    <option name="VISUAL_INDENT_GUIDE" value="ff1199" />
     <option name="WHITESPACES" value="424450" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="44475a" />
   </colors>
@@ -508,7 +508,6 @@
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="80ffea" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -1040,7 +1039,6 @@
     <option name="JS.GLOBAL_FUNCTION">
       <value>
         <option name="FOREGROUND" value="80ffea" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
@@ -1072,6 +1070,11 @@
     <option name="JS.NULL_UNDEFINED">
       <value>
         <option name="FOREGROUND" value="9580ff" />
+      </value>
+    </option>
+    <option name="JS.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="f89580" />
       </value>
     </option>
     <option name="JS.REGEXP">
@@ -2362,6 +2365,23 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="PHP_DOC_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="7282b7" />
+      </value>
+    </option>
+    <option name="PHP_DOC_TAG">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_DOC_VAR">
+      <value>
+        <option name="FOREGROUND" value="7282b7" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="PHP_EXEC_COMMAND_ID">
       <value>
         <option name="FOREGROUND" value="feff80" />
@@ -2390,7 +2410,6 @@
     <option name="PHP_INTERFACE">
       <value>
         <option name="FOREGROUND" value="80ffea" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_KEYWORD">
@@ -2406,7 +2425,6 @@
     <option name="PHP_PARAMETER">
       <value>
         <option name="FOREGROUND" value="f89580" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_PREDEFINED SYMBOL">
@@ -2421,13 +2439,11 @@
     <option name="PHP_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_STATIC_METHOD">
       <value>
         <option name="FOREGROUND" value="50fa78" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_THIS_VAR">
