@@ -11,4 +11,13 @@
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="debugger.watches.in.variables" value="false" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Position" value="false" />
+        <entry key="git" value="false" />
+        <entry key="webDeployment.default.server.widget" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
