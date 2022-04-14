@@ -3,7 +3,7 @@
     <property name="created">2020-11-11T23:06:12</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2021-01-07T19:12:02</property>
+    <property name="modified">2022-03-17T15:11:56</property>
     <property name="originalScheme">Twilight</property>
   </metaInfo>
   <colors>
@@ -873,22 +873,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="252517" />
+        <option name="BACKGROUND" value="2f3034" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="1c251c" />
+        <option name="BACKGROUND" value="2c3431" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="251c25" />
+        <option name="BACKGROUND" value="33352f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="182323" />
+        <option name="BACKGROUND" value="37322e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="372c2c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="372829" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">

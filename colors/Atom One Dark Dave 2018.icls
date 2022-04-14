@@ -4,7 +4,7 @@
     <property name="created">2018-08-01T16:54:22</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.0.0</property>
-    <property name="modified">2021-01-07T19:12:01</property>
+    <property name="modified">2022-03-17T15:11:56</property>
     <property name="originalScheme">_@user_Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1248,22 +1248,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="333630" />
+        <option name="BACKGROUND" value="3b404b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="293635" />
+        <option name="BACKGROUND" value="394448" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="332d3e" />
+        <option name="BACKGROUND" value="3f4546" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="26353c" />
+        <option name="BACKGROUND" value="444245" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="443c43" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="443840" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">

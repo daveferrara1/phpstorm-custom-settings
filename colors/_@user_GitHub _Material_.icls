@@ -4,7 +4,7 @@
     <property name="created">2020-11-11T23:06:12</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2021-01-07T19:12:02</property>
+    <property name="modified">2022-03-17T15:11:56</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -826,22 +826,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="ffffe8" />
+        <option name="BACKGROUND" value="f4f5fb" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="f0fff0" />
+        <option name="BACKGROUND" value="f0fbf7" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fff0ff" />
+        <option name="BACKGROUND" value="f9fcf5" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="eafdfd" />
+        <option name="BACKGROUND" value="fff8f3" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="fff1f0" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="ffebec" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
@@ -2542,7 +2552,7 @@
     <option name="SPEL.BACKGROUND">
       <value />
     </option>
-    <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="" />
+    <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="SQL_COLUMN" />
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="d73a49" />
