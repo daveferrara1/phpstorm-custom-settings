@@ -4,7 +4,7 @@
     <property name="created">2021-04-23T05:49:14</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.1.0.0</property>
-    <property name="modified">2022-07-28T09:53:24</property>
+    <property name="modified">2022-08-17T14:24:35</property>
     <property name="originalScheme">Dracula (Material)</property>
   </metaInfo>
   <console-font>
@@ -13,7 +13,7 @@
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
