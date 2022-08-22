@@ -4,7 +4,7 @@
     <property name="created">2021-04-23T05:49:14</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.1.0.0</property>
-    <property name="modified">2022-08-22T15:11:52</property>
+    <property name="modified">2022-08-22T15:16:58</property>
     <property name="originalScheme">Dracula (Material)</property>
   </metaInfo>
   <console-font>
@@ -972,14 +972,14 @@
         <option name="BACKGROUND" value="3d474e" />
       </value>
     </option>
-    <option name="INDENT_RAINBOW_COLOR_2_DERIVED">
-      <value>
-        <option name="BACKGROUND" value="282a36" />
-      </value>
-    </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
         <option name="BACKGROUND" value="44484c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3_DERIVED">
+      <value>
+        <option name="BACKGROUND" value="1e6bb7" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
