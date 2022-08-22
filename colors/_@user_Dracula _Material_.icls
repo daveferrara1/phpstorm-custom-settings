@@ -4,7 +4,7 @@
     <property name="created">2021-04-23T05:49:14</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.1.0.0</property>
-    <property name="modified">2022-08-17T14:24:35</property>
+    <property name="modified">2022-08-22T15:11:52</property>
     <property name="originalScheme">Dracula (Material)</property>
   </metaInfo>
   <console-font>
@@ -972,6 +972,11 @@
         <option name="BACKGROUND" value="3d474e" />
       </value>
     </option>
+    <option name="INDENT_RAINBOW_COLOR_2_DERIVED">
+      <value>
+        <option name="BACKGROUND" value="282a36" />
+      </value>
+    </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
         <option name="BACKGROUND" value="44484c" />
@@ -982,12 +987,27 @@
         <option name="BACKGROUND" value="48444b" />
       </value>
     </option>
+    <option name="INDENT_RAINBOW_COLOR_4_DERIVED">
+      <value>
+        <option name="BACKGROUND" value="48444b" />
+      </value>
+    </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
         <option name="BACKGROUND" value="483f48" />
       </value>
     </option>
+    <option name="INDENT_RAINBOW_COLOR_5_DERIVED">
+      <value>
+        <option name="BACKGROUND" value="483f48" />
+      </value>
+    </option>
     <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="483b46" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6_DERIVED">
       <value>
         <option name="BACKGROUND" value="483b46" />
       </value>
