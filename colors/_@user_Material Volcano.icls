@@ -4,7 +4,7 @@
     <property name="created">2022-02-02T09:37:43</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-03-17T15:11:55</property>
+    <property name="modified">2022-11-09T14:11:50</property>
     <property name="originalScheme">Material Volcano</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -76,10 +76,15 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="c792ea" />
     <option name="FILESTATUS_MODIFIED" value="bcd4" />
+    <option name="FILESTATUS_NOT_CHANGED" value="626669" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="bcd4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
     <option name="FILESTATUS_SUPPRESSED" value="7f6451" />
     <option name="FILESTATUS_SWITCHED" value="c792ea" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
@@ -240,9 +245,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.HERE_DOC_END" baseAttributes="" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="" />
-    <option name="BASH.SHEBANG" baseAttributes="" />
+    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BLINKING_HIGHLIGHTS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="bcd4" />
@@ -325,7 +330,7 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="ff5370" />
@@ -497,8 +502,8 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="Class" baseAttributes="" />
     <option name="Closure braces">
       <value>
@@ -826,7 +831,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="" />
+    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GIT_TOOLBOX.CHANGED_COUNT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -970,17 +975,17 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_COMMENT" baseAttributes="" />
-    <option name="HAML_FILTER" baseAttributes="" />
-    <option name="HAML_FILTER_CONTENT" baseAttributes="" />
+    <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
+    <option name="HAML_FILTER" baseAttributes="DEFAULT_LABEL" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="c792ea" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE" baseAttributes="" />
-    <option name="HAML_RUBY_START" baseAttributes="" />
+    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
+    <option name="HAML_RUBY_START" baseAttributes="DEFAULT_KEYWORD" />
     <option name="HAML_TAG">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -992,8 +997,8 @@
         <option name="FOREGROUND" value="f07178" />
       </value>
     </option>
-    <option name="HAML_TEXT" baseAttributes="" />
-    <option name="HAML_XHTML" baseAttributes="" />
+    <option name="HAML_TEXT" baseAttributes="TEXT" />
+    <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="HOCON_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
