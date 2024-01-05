@@ -4,7 +4,6 @@
       <option name="CSS" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="CoffeeScript" value="false" />
-      <option name="ECMAScript6" value="false" />
       <option name="HAML" value="false" />
       <option name="HTML" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
@@ -24,7 +23,6 @@
       <option name="CSS" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="CoffeeScript" value="false" />
-      <option name="ECMAScript6" value="false" />
       <option name="HAML" value="false" />
       <option name="HTML" value="false" />
       <option name="JAVA_SCRIPT" value="false" />

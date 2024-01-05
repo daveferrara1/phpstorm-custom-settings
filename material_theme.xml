@@ -3,8 +3,11 @@
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="accentColor" value="ff79c5" />
+    <option name="secondAccentColor" />
+    <option name="highlightColor" />
+    <option name="focusColor" />
     <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="5b23aa24:1679a331ab7:-7fff" />
-    <option name="version" value="7.14.2" />
+    <option name="version" value="8.13.2" />
   </component>
 </application>
